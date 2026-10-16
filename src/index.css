@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Helvetica Neue', 'HelveticaNeue', 'SF Pro Display', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-weight: 300;
+  background: #111111;
+}
