@@ -1,0 +1,167 @@
+.agents/skills/afk/SKILL.md
+  s_3a34e48fba1417::t_ec59d8e9a99cd3 1-79
+.claude/skills/afk
+  s_3a34e48fba1417::t_67fa7678b6ec82 1
+.gitignore
+  s_3a34e48fba1417::t_7c0ed93fa5ec62 1-27
+package-lock.json
+  s_3a34e48fba1417::t_18b88c8da902b0 1-4434
+package.json
+  s_3a34e48fba1417::t_405ec067b04eaf 1-49
+skills-lock.json
+  s_3a34e48fba1417::t_aed6458672d21b 1-11
+src-tauri/Cargo.lock
+  s_3a34e48fba1417::t_d2da9ee0604430 1-5219
+src-tauri/Cargo.toml
+  s_3a34e48fba1417::t_e58f98202c0113 1-33
+src-tauri/src/lib.rs
+  s_3a34e48fba1417::t_48ac684f1ad3e1 1-1323
+src/features/editor/errors.test.ts
+  s_3a34e48fba1417::t_3d48c07e6f11c8 1-22
+src/features/editor/errors.ts
+  s_3a34e48fba1417::t_02b43223260c06 1-14
+src/features/editor/hooks/useExportFlow.test.ts
+  s_3a34e48fba1417::t_da14527ffe1e47 1-87
+src/features/editor/hooks/useExportFlow.ts
+  s_3a34e48fba1417::t_a48a327224b189 1-65
+src/features/editor/hooks/usePreviewMeta.ts
+  s_ba2312242b87c0::t_e78c190f16a376 1-14
+src/features/editor/hooks/useRenderQueue.coalesce.test.ts
+  s_3a34e48fba1417::t_c8548f5010997d 1-43
+src/features/editor/hooks/useRenderQueue.stability.test.ts
+  s_3a34e48fba1417::t_60b3b7d1c6ac9a 1-43
+src/features/editor/hooks/useSourceLayerInput.test.ts
+  s_3a34e48fba1417::t_4346bc44f6295e 1-43
+src/features/editor/hooks/useSourceLayerInput.ts
+  s_3a34e48fba1417::t_7d96e7bae3febd 1-110
+src/features/editor/hooks/useStatus.ts
+  s_ba2312242b87c0::t_c3dda3c47f57c2 1-22
+src/features/editor/statusMessages.ts
+  s_3a34e48fba1417::t_3edd5a77f7f860 1-48
+.oxlintrc.json
+  s_3a34e48fba1417::t_c215cc5d98d8fb 1-8
+README.md
+  s_3a34e48fba1417::t_fac6d143e071fa 1-84
+ROADMAP.md
+  s_3a34e48fba1417::t_2367013bcadf44 1-226
+index.html
+  s_3a34e48fba1417::t_472b2ed2e837be 1-13
+postcss.config.js
+  s_3a34e48fba1417::t_cdb57a643088ff 1-6
+public/favicon.svg
+  s_3a34e48fba1417::t_a6aabeefcd59d7 1
+public/icons.svg
+  s_3a34e48fba1417::t_6e8566d25afa47 1-24
+src-tauri/.gitignore
+  s_3a34e48fba1417::t_dd4507bf9f40f1 1-4
+src-tauri/build.rs
+  s_3a34e48fba1417::t_6a408a1506d1af 1-3
+src-tauri/capabilities/default.json
+  s_3a34e48fba1417::t_d298f6a369e6c5 1-12
+src-tauri/src/grain.rs
+  s_3a34e48fba1417::t_57bf331edbac2d 1-290
+src-tauri/src/main.rs
+  s_3a34e48fba1417::t_4410b45a5f59bf 1-6
+src-tauri/tauri.conf.json
+  s_3a34e48fba1417::t_a50971eb3f6f6d 1-42
+src/App.tsx
+  s_3a34e48fba1417::t_a759e1795a5c40 1-10
+src/assets/react.svg
+  s_3a34e48fba1417::t_4fc2f0742b0098 1
+src/assets/vite.svg
+  s_3a34e48fba1417::t_0b9869d18ff189 1
+src/components/ui/button.tsx
+  s_3a34e48fba1417::t_93ea73e027c81b 1-37
+src/components/ui/card.tsx
+  s_3a34e48fba1417::t_e75176cccbddb0 1-32
+src/components/ui/scroll-area.tsx
+  s_3a34e48fba1417::t_7349702cfa2b64 1-37
+src/components/ui/select.tsx
+  s_3a34e48fba1417::t_c3e163ae2e39c3 1-64
+src/components/ui/slider.tsx
+  s_3a34e48fba1417::t_d26ff03d221727 1-22
+src/components/ui/switch.tsx
+  s_3a34e48fba1417::t_4dfeb2ac798ffd 1-22
+src/features/editor/api/editorApi.ts
+  s_3a34e48fba1417::t_c9d8be8609ff70 1-28
+src/features/editor/components/EditorRuntime.tsx
+  s_3a34e48fba1417::t_6f8703084628f4 1-195
+src/features/editor/components/EditorToolbar.tsx
+  s_3a34e48fba1417::t_b9261f469d914f 1-117
+src/features/editor/components/LayersSidebar.tsx
+  s_3a34e48fba1417::t_b0b8b4790e188a 1-144
+src/features/editor/components/PreviewViewport.tsx
+  s_3a34e48fba1417::t_c7c51915493b48 1-143
+src/features/editor/components/RangeControl.tsx
+  s_3a34e48fba1417::t_49e10fe03d66ff 1-77
+src/features/editor/components/ToneSidebar.tsx
+  s_3a34e48fba1417::t_87048cc8231454 1-128
+src/features/editor/config.ts
+  s_3a34e48fba1417::t_250643b163fe53 1-198
+src/features/editor/controls.ts
+  s_3a34e48fba1417::t_700454c2185884 1-52
+src/features/editor/hooks/useBootAndOriginalPreview.ts
+  s_3a34e48fba1417::t_69a6367f1a7dd9 1-67
+src/features/editor/hooks/useEditorActions.ts
+  s_3a34e48fba1417::t_83d2d4b3fd7cb7 1-84
+src/features/editor/hooks/useEditorState.test.ts
+  s_3a34e48fba1417::t_ce7aec56385a0f 1-63
+src/features/editor/hooks/useEditorState.ts
+  s_3a34e48fba1417::t_5eade696f52a66 1-144
+src/features/editor/hooks/usePreviewInteraction.test.ts
+  s_3a34e48fba1417::t_718923b518ea8f 1-205
+src/features/editor/hooks/usePreviewInteraction.ts
+  s_3a34e48fba1417::t_8bcfda8c49fa80 1-253
+src/features/editor/hooks/useRenderQueue.test.ts
+  s_3a34e48fba1417::t_c4053d71f8431e 1-157
+src/features/editor/hooks/useRenderQueue.ts
+  s_3a34e48fba1417::t_3e1a4d8e8a1c2f 1-97
+src/features/editor/layers.ts
+  s_3a34e48fba1417::t_8efb89287d28c6 1-86
+src/features/editor/recipes.test.ts
+  s_3a34e48fba1417::t_54a630e7d9ac88 1-57
+src/features/editor/recipes.ts
+  s_3a34e48fba1417::t_8ab7f48a8d2e94 1-43
+src/features/editor/types.ts
+  s_3a34e48fba1417::t_2f17ced0796b13 1-85
+src/index.css
+  s_3a34e48fba1417::t_d10b31163d2efa 1-38
+src/lib/utils.ts
+  s_3a34e48fba1417::t_968e23c95246b7 1-6
+src/main.tsx
+  s_3a34e48fba1417::t_4b2475b60a53e6 1-10
+tailwind.config.js
+  s_3a34e48fba1417::t_2d18251e2ec0bd 1-8
+tsconfig.app.json
+  s_3a34e48fba1417::t_03ae733543ded9 1-26
+tsconfig.json
+  s_3a34e48fba1417::t_238b87bea0c6f5 1-7
+tsconfig.node.json
+  s_3a34e48fba1417::t_c7ed7dfd65da7d 1-23
+vite.config.ts
+  s_3a34e48fba1417::t_6724a564ed2548 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "d91face20d6b8d75fcf4ce40384389e7f1a7544f",
+  "prompts": {},
+  "sessions": {
+    "s_3a34e48fba1417": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21242af5-d8ca-45d3-a22b-1f21712903ef",
+        "model": "moya/claude-haiku-5-5"
+      },
+      "human_author": "Lluis Pitarch <hellocomboi@gmail.com>"
+    },
+    "s_ba2312242b87c0": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e4576bf8-e424-408e-86c1-a95fa9a3c35b",
+        "model": "copilot/gpt-6-luna"
+      },
+      "human_author": "Lluis Pitarch <hellocomboi@gmail.com>"
+    }
+  }
+}
