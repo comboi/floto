@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "afk": {
+      "source": "timschoch/skilly",
+      "sourceType": "github",
+      "skillPath": "bundles/workflow/skills/afk/SKILL.md",
+      "computedHash": "57817e12b4673328816e5337aeadb249a61404ba856b66cede9076191d05015d"
+    }
+  }
+}
