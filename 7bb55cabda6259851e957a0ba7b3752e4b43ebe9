@@ -1,0 +1,14 @@
+ROADMAP.md
+  h_e982f2ffe6236c 1-198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7bb55cabda6259851e957a0ba7b3752e4b43ebe9",
+  "prompts": {},
+  "humans": {
+    "h_e982f2ffe6236c": {
+      "author": "Lluis Pitarch <lluispri@ext.inditex.com>"
+    }
+  }
+}

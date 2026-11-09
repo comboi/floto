@@ -1,0 +1,23 @@
+src/features/editor/hooks/useEditorActions.ts
+  s_ba2312242b87c0::t_c1cffee9679cf0 1-78
+src/features/editor/hooks/usePreviewMeta.ts
+  s_ba2312242b87c0::t_2ca9b084b17533 1-14
+src/features/editor/hooks/useStatus.ts
+  s_ba2312242b87c0::t_eaaf304625c8e7 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7ea599e793e3eab7549d201446500f38e6c68934",
+  "prompts": {},
+  "sessions": {
+    "s_ba2312242b87c0": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e4576bf8-e424-408e-86c1-a95fa9a3c35b",
+        "model": "copilot/gpt-6-luna"
+      },
+      "human_author": "Lluis Pitarch <lluispri@ext.inditex.com>"
+    }
+  }
+}
